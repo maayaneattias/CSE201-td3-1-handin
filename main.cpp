@@ -37,6 +37,7 @@ int main(int argc, char* argv[])
   {
 
         std::cout << "“A better, new initial message” " << std::endl;
+        std::cout << "This is a change... " << std::endl;
 
 
   }
